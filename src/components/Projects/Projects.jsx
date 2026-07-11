@@ -4,6 +4,10 @@ import img1 from '../../assets/design.jpg'
 import img2 from '../../assets/design2.jpg'
 import img3 from '../../assets/design3.jpg'
 import img4 from '../../assets/design4.jpg'
+import img5 from '../../assets/design5.jpg'
+import img6 from '../../assets/design6.jpg'
+import img7 from '../../assets/design7.jpg'
+import img8 from '../../assets/design8.jpg'
 
 const Projects = () => {
     return (
@@ -30,6 +34,26 @@ const Projects = () => {
                     title="Contemporary Architecture in Focus"
                     main="Bold lines, precise angles, welcoming presence."
                      image={img2}
+                />
+                 <ProjectCard
+                    title="Modern Family Residence"
+                    main="Elegant living with striking architecture and warm outdoor lighting."
+                     image={img5}
+                />
+                 <ProjectCard
+                    title="Minimalist Luxury Villa"
+                    main="Clean design, open spaces, and seamless indoor-outdoor living."
+                     image={img6}
+                />
+                 <ProjectCard
+                    title="Premium Urban Apartments"
+                    main="Sophisticated multi-level residences crafted for modern city life."
+                     image={img7}
+                />
+                  <ProjectCa
+                    title="Refined Interior Design"
+                    main="Bright, luxurious interiors designed for comfort and timeless style."
+                     image={img8}
                 />
                
             </div>
