@@ -6,7 +6,7 @@ const Navbar = () => {
   const[showMenu, setShowmenu] = useState(true);
 
   return (
-    <nav className='flex flex-wrap justify-between md:items-center text-white px-10 pt-6 md:px-20'>
+    <nav className='fixed top-0 left-0 w-full z-50 flex flex-wrap justify-between md:items-center text-white px-10 pt-6 md:px-20 bg-[#171d32]'>
         <span className='text-3xl font-bold tracking-wide'>Lithorix</span>
 
       <ul 

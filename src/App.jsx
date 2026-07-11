@@ -6,23 +6,19 @@ import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer/Footer";
 
 function App() {
- 
-
   return (
-    <div className="bg-[#171d32] h-auto w-full overflow-hidden">
+    <div className="bg-[#171d32] h-auto w-full overflow-hidden pt-24">
 
+      <Navbar />
 
-      <Navbar/>
-      <Home/>
-      <About/>
-      <Experience/>
-      <Projects/>
-      <Footer/>
+      <Home />
+      <About />
+      <Experience />
+      <Projects />
+      <Footer />
+
     </div>
-
-  
   );
 }
 
-export default App
-
+export default App;
