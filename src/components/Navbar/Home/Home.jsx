@@ -10,9 +10,11 @@ const Home = () => {
                     <TextChange />
                 </h1>
                 <p className='text-sm md:text-2xl tracking-tight'>
-                    Lithorix Engineering delivers innovative, precision-driven engineering and construction solutions,
-                    combining expertise, quality, and smart technologies to build safe, sustainable,
-                    and future-ready spaces.
+                    Lithorix Engineering is a multidisciplinary engineering, construction,
+                     and real estate company delivering integrated solutions across building design,
+                      construction, property management, real estate, and smart building technologies.
+                       We combine technical expertise, innovation, and industry best practices to deliver residential,
+                        commercial, and industrial projects that meet regulatory requirements and exceed client expectations.
 
                 </p>
 

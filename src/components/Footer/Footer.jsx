@@ -15,31 +15,49 @@ const Footer = () => {
           <div className="flex items-center gap-2">
             <IoArrowForward size={20} />
             <h3 className="text-sm md:text-1xl font-normal">
-              Integrated design and construction services.
+              Comprehensive engineering and construction solutions under one roof.
             </h3>
           </div>
           <div className="flex items-center gap-2">
             <IoArrowForward size={20} />
             <h3 className="text-sm md:text-1xl font-normal">
-              Experienced engineering and technical professionals.
+              Permit-ready architectural, structural, and MEP designs.
             </h3>
           </div>
           <div className="flex items-center gap-2">
             <IoArrowForward size={20} />
             <h3 className="text-sm md:text-1xl font-normal">
-              Quality-driven execution and supervision.
+              Professional project planning and construction management.
             </h3>
           </div>
           <div className="flex items-center gap-2">
             <IoArrowForward size={20} />
             <h3 className="text-sm md:text-1xl font-normal">
-              Compliance with safety and industry standards.
+              Reliable property maintenance and facility management services.
             </h3>
           </div>
           <div className="flex items-center gap-2">
             <IoArrowForward size={20} />
             <h3 className="text-sm md:text-1xl font-normal">
-              Innovative and sustainable building solutions.
+              High-quality building materials and dependable supply chain.
+            </h3>
+          </div>
+            <div className="flex items-center gap-2">
+            <IoArrowForward size={20} />
+            <h3 className="text-sm md:text-1xl font-normal">
+              Innovative smart building technologies.
+            </h3>
+          </div>
+           <div className="flex items-center gap-2">
+            <IoArrowForward size={20} />
+            <h3 className="text-sm md:text-1xl font-normal">
+              Commitment to quality, safety, sustainability, and regulatory compliance.
+            </h3>
+          </div>
+            <div className="flex items-center gap-2">
+            <IoArrowForward size={20} />
+            <h3 className="text-sm md:text-1xl font-normal">
+              Client-focused service with technical excellence at every stage.
             </h3>
           </div>
 
@@ -47,10 +65,15 @@ const Footer = () => {
       </div>
       <div>
         <h1 className='text-2xl md:text-4xl font-bold'>Our Commitment</h1>
-        <h3 className='text-sm md:text-1xl font-normal '>At Lithorix Engineering, every project is handled </h3>
-        <h3 className='text-sm md:text-1xl font-normal '>with professionalism, technical accuracy, and attention to detail.</h3>
-        <h3 className='text-sm md:text-1xl font-normal '>We are committed to delivering reliable infrastructure</h3>
-        <h3 className='text-sm md:text-1xl font-normal '> and value-driven real estate solutions that stand the test of time.</h3>
+        <h3 className='text-sm md:text-1xl font-normal '>At Lithorix Engineering, we are committed to engineering  </h3>
+        <h3 className='text-sm md:text-1xl font-normal '>excellence, construction quality, and long-term client value. Every</h3>
+        <h3 className='text-sm md:text-1xl font-normal '>project is executed with professionalism, technical precision,</h3>
+        <h3 className='text-sm md:text-1xl font-normal '>integrity, and attention to detail. Whether designing a new</h3>
+        <h3 className='text-sm md:text-1xl font-normal '>development, constructing a modern facility, managing an existing </h3>
+        <h3 className='text-sm md:text-1xl font-normal '>property, supplying quality building materials, integrating smart </h3>
+        <h3 className='text-sm md:text-1xl font-normal '>technologies, or facilitating property sales and rentals, we strive to</h3>
+        <h3 className='text-sm md:text-1xl font-normal '>deliver solutions that are durable, efficient, sustainable, and built to  </h3>
+        <h3 className='text-sm md:text-1xl font-normal '>the highest professional standards. </h3>
       </div>
 
       <div>

@@ -50,7 +50,7 @@ const Projects = () => {
                     main="Sophisticated multi-level residences crafted for modern city life."
                      image={img7}
                 />
-                  <ProjectCa
+                  <ProjectCard
                     title="Refined Interior Design"
                     main="Bright, luxurious interiors designed for comfort and timeless style."
                      image={img8}

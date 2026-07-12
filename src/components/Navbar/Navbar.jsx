@@ -29,6 +29,11 @@ const Navbar = () => {
             duration-300 hover:scale-105'>
             Projects</li>
             </a>
+            <a href='#Services'>
+          <li className='text-md transition-all duration-300 p-1 md:p-0 hover:opacity-85
+            duration-300 hover:scale-105'>
+            Services</li>
+            </a>
             <a href='#Footer'>
           <li className='text-md transition-all duration-300 p-1 md:p-0 hover:opacity-85
             duration-300 hover:scale-105'>
